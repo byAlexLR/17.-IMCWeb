@@ -1,3 +1,5 @@
+"use strict";
+
 // Función para calcular el IMC
 function imc(peso, alturaCm) {
     // Convierte la altura a metros
